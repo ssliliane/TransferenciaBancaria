@@ -1,0 +1,16 @@
+C:\Users\Kyros\estudo\Projetos\DigitalInnovationOne\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.exe
+C:\Users\Kyros\estudo\Projetos\DigitalInnovationOne\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.deps.json
+C:\Users\Kyros\estudo\Projetos\DigitalInnovationOne\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.runtimeconfig.json
+C:\Users\Kyros\estudo\Projetos\DigitalInnovationOne\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.runtimeconfig.dev.json
+C:\Users\Kyros\estudo\Projetos\DigitalInnovationOne\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.dll
+C:\Users\Kyros\estudo\Projetos\DigitalInnovationOne\TransferenciaBancaria\bin\Debug\net5.0\ref\TransferenciaBancaria.dll
+C:\Users\Kyros\estudo\Projetos\DigitalInnovationOne\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.pdb
+C:\Users\Kyros\estudo\Projetos\DigitalInnovationOne\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.csprojAssemblyReference.cache
+C:\Users\Kyros\estudo\Projetos\DigitalInnovationOne\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kyros\estudo\Projetos\DigitalInnovationOne\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.AssemblyInfoInputs.cache
+C:\Users\Kyros\estudo\Projetos\DigitalInnovationOne\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.AssemblyInfo.cs
+C:\Users\Kyros\estudo\Projetos\DigitalInnovationOne\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Kyros\estudo\Projetos\DigitalInnovationOne\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.dll
+C:\Users\Kyros\estudo\Projetos\DigitalInnovationOne\TransferenciaBancaria\obj\Debug\net5.0\ref\TransferenciaBancaria.dll
+C:\Users\Kyros\estudo\Projetos\DigitalInnovationOne\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.pdb
+C:\Users\Kyros\estudo\Projetos\DigitalInnovationOne\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.genruntimeconfig.cache
